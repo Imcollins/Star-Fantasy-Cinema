@@ -7,7 +7,7 @@ Star Fantasy Cinema is made with HTML, CSS, Javascript, jQuery and Bootstrap. It
 
 ## Table of contents
 
-[Description/Overview](#description/overview) // [GitHub Link](#github-link) // [Technologies Used](#technologies) // [Code Snippets and Screenshots](#code-snippets-and-screenshots)
+[Description](#description/overview) // [GitHub Link](#github-link) // [Technologies Used](#technologies) // [Code Snippets and Screenshots](#code-snippets-and-screenshots)
 
 
 ## Technologies
