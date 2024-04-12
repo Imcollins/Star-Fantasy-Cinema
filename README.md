@@ -1,7 +1,7 @@
-## Description/Overview
+## Description
 Star Fantasy Cinema is made with HTML, CSS, Javascript, jQuery and Bootstrap. It pulls movies from The Movie Database using API calls. Users have the option to view the top playing movies, sort them by genre or search for other movies using the search function.
 
-
+[Live URL](https://imcollins.github.io/Star-Fantasy-Cinema)
 
 [GitHub Repo](https://github.com/Imcollins/Star-Fantasy-Cinema.git)
 
