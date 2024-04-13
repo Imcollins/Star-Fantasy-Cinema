@@ -52,7 +52,7 @@ img{
 	color: white;
 }
 
-.img{
+img{
 	background-image:url("img_tree.git");
 	background-repeat: no-repeat;
 	background-attachment:fixed;
